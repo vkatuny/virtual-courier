@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="370" viewBox="0 0 856 370">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#2260E5"/></marker></defs>
+<g fill="none" stroke="#2260E5" stroke-width="2" marker-end="url(#arrow)">
+<path d="M200 90H338"/><path d="M518 90H656"/>
+<path d="M746 65V22H110V65"/>
+<path d="M746 115V210"/>
+<path d="M656 235H518"/><path d="M338 235H200"/>
+<path d="M20 235H4V90H20"/>
+<path d="M110 260V310"/>
+</g>
+<g fill="#EEF2F6" stroke="#CED8E2" stroke-width="1">
+<rect x="20" y="65" width="180" height="50" rx="5"/>
+<rect x="338" y="65" width="180" height="50" rx="5"/>
+<rect x="656" y="65" width="180" height="50" rx="5"/>
+<rect x="656" y="210" width="180" height="50" rx="5"/>
+<rect x="338" y="210" width="180" height="50" rx="5"/>
+<rect x="20" y="210" width="180" height="50" rx="5"/>
+<rect x="20" y="310" width="180" height="44" rx="5"/>
+</g>
+<g font-family="Lato, sans-serif" fill="#18252E" font-size="20" text-anchor="middle">
+<text x="110" y="97">Поиск</text><text x="428" y="97">Подъезд</text><text x="746" y="97">Загрузка</text>
+<text x="746" y="242">Возвращение</text><text x="428" y="242">Парковка</text><text x="110" y="242">Выгрузка</text>
+<text x="110" y="339">Завершение</text>
+</g>
+<g font-family="Lato, sans-serif" fill="#687780" font-size="12">
+<g text-anchor="middle">
+<text x="269" y="62">Найдена станция</text><text x="269" y="78">с грузом</text>
+<text x="587" y="62">Приехали</text><text x="587" y="78">на станцию</text>
+<text x="428" y="14">Груз получен, можно продолжать сбор</text>
+<text x="587" y="198">Приехали на старт</text>
+<text x="269" y="182">Парковка</text><text x="269" y="198">завершена</text>
+</g>
+<text x="758" y="148">Груз получен:</text><text x="758" y="164">лоток заполнен</text><text x="758" y="180">или осталось</text><text x="758" y="196">мало времени</text>
+<text x="20" y="151">Выгрузили,</text><text x="20" y="167">есть ещё работа</text>
+<text x="124" y="283">Выгрузили, все станции</text><text x="124" y="299">обслужены или неактивны</text>
+<text x="338" y="357">Обработка ошибок опущена для упрощения схемы</text>
+</g>
+</svg>
