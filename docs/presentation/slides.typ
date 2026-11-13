@@ -137,7 +137,7 @@
 #v(28pt)
 #grid(columns: (1fr, 1fr), gutter: 40pt,
   align(center)[
-    #box(width: 200pt, height: 200pt, radius: 100pt, clip: true)[#image("screenshots/vania-high-crop.png", width: 200pt, height: 200pt, fit: "cover")]
+    #box(width: 200pt, height: 200pt, radius: 100pt, clip: true)[#image("screenshots/vania-photo.png", width: 200pt, height: 200pt, fit: "cover")]
     #v(18pt)
     Тарасов Иван
   ],
