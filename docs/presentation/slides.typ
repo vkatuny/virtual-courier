@@ -147,3 +147,5 @@
     Филиппов Никита
   ],
 )
+#v(24pt)
+#align(center)[#text(fill: blue)[#link("https://github.com/vkatuny/virtual-courier")[Репозиторий проекта] #h(32pt) #link("https://github.com/vkatuny/virtual-courier/blob/main/docs/engineering_book/engineering_book.pdf")[Инженерная книга]]]
