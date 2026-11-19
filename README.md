@@ -3,6 +3,10 @@
 ROS 2 Humble, Webots, SLAM Toolbox и Nav2/MPPI. Реализованы исследование лабиринта,
 распознавание станций, загрузка и выгрузка грузов.
 
+## Демонстрация
+
+[Посмотреть видео работы робота (1:21)](https://github.com/vkatuny/virtual-courier/blob/main/docs/video-demo.mp4)
+
 ## Запуск
 
 По умолчанию запускается `hard_52332` (seed 52332). Для исходной карты: `SCENARIO=public_1 docker compose up`.
